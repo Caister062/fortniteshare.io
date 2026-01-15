@@ -1,0 +1,8 @@
+{
+  "name": "Fortnite Share",
+  "description": "The ultimate Fortnite community network. Real data, real-time clips, and zero toxicity on the grid.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
